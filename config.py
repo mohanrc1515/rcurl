@@ -31,6 +31,7 @@ class Txt(object):
     # part of text configuration
     START_TXT = """Hello {} 👋 
 
-➻ RC RENAME BOT 
+➻ RC RENAME BOT வணக்கம் 
+"""
 
     
